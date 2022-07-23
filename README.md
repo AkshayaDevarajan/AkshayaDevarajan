@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AkshayaDevarajan
+- 👀 I’m interested in ...learning about salesforce
+- 🌱 I’m currently learning ...MCA
+- 📫 How to reach me ...akshayad2420@gmail.com
